@@ -1,0 +1,2 @@
+# GutierrezRomeroQueryDocuments
+En este repositorio vamos a llevar a cabo ejercicios en la base de datos inventory, cuyos datos han sido extraidos de https://docs.mongodb.com/manual/tutorial/query-documents/ , a partir de aquí añadiremos más documentos a la colección y usaremos diferentes tipos de filtros para extraer los documentos. Para la insercción usaremos metodos como insertMany, Insert o InsertOne y para las consultas usaremos el método Find acompañado del operador $and, en el caso de que sea explicito, o sin el si es el caso de que es un $and implicito.
